@@ -1,5 +1,5 @@
 # sulasok
-MEMBERS:
+MEMBERS:\n
 Adlao, Clarence
 Ahl, Satingin
 Ciriaco, Gian
