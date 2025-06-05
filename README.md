@@ -13,8 +13,8 @@ Gutierrez, Hans Christian
 
 **BSIT 2-2 GROUP 2**
 
-	<ins>Milktea Product Inventory Management</ins>
+***Milktea Product Inventory Management***
 
-	<ins>SULASOK MILK TEA</ins> 
+***SULASOK MILK TEA***
 
 Consists of Python, SQL
